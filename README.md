@@ -1,8 +1,8 @@
 React Food Recipe Website
-This project is a React-based web application that displays various food recipes with the ability to search for specific recipes by name or ingredients. It uses the Edamam Recipe Search API to fetch recipe data and displays it in a user-friendly way.
+This project is a React-based web application that displays various food recipes with the ability to search for specific recipes by name or ingredients. It uses the  themealdb Recipe Search API to fetch recipe data and displays it in a user-friendly way.
 
 Installation
-Clone the repository to your local machine using git clone https://github.com/YOUR_USERNAME/react-food-recipe-website.git
+Clone the repository to your local machine using git clone https://github.com/Pradeep1409/Food-Recipess.git
 Change directory to the project folder using cd react-food-recipe-website
 Install dependencies using npm install
 Start the development server using npm start
